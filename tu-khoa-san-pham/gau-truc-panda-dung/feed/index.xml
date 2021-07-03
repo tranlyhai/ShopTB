@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gau-truc-panda-dung &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gau-truc-panda-dung/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 30 Jun 2021 12:26:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>GẤU TRÚC PANDA ĐỨNG</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/gau-truc-panda-dung/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/gau-truc-panda-dung/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Wed, 30 Jun 2021 12:26:11 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=230</guid>
+
+					<description><![CDATA[<a href="http://www.gaubongvip.com/gau-truc-panda/125" target="_blank" rel="noopener">Gấu trúc Panda</a> đứng tái hiện lại hình ảnh của nhân vật gấu trúc Panda trong bộ phim hoạt hình nổi tiếng "Chúng tôi đơn giản là gấu". Gấu trúc Panda - một anh chàng thông minh, nhanh nhẹn và vô cùng dễ thương. Được làm từ 100% bông trắng tinh khiết, đàn hồi + lớp nhung nước siêu mềm mịn, gấu trúc Panda đứng được rất nhiều bạn trẻ săn đón. Đây là món quà tuyệt vời cho cả người lớn và trẻ em]]></description>
+										<content:encoded><![CDATA[<p>Chất nhung siêu mềm mịn và mát lạnh, bán chạy cả mùa hè và mùa đông. Thiết kế sắc nét đến từng chi tiết nhỏ</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/gau-truc-panda-dung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

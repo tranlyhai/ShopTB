@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gau-bong-pikachu &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gau-bong-pikachu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 02 Jul 2021 03:47:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>GẤU BÔNG PIKACHU NẰM</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/gau-bong-pikachu-nam/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/gau-bong-pikachu-nam/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 03:47:01 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=363</guid>
+
+					<description><![CDATA[Gấu bông pikachu là nhân vật hoạt hình quen thuộc của tất cả các bạn nhỏ. Vậy còn chần chừ gì nữa hãy sắm ngay một em nó về làm bạn nào]]></description>
+										<content:encoded><![CDATA[<p>Gấu bông pikachu là nhân vật hoạt hình quen thuộc của tất cả các bạn nhỏ. Vậy còn chần chừ gì nữa hãy sắm ngay một em nó về làm bạn nào</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/gau-bong-pikachu-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

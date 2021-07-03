@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gau-bong-ngua-mot-sung-nam &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gau-bong-ngua-mot-sung-nam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 02 Jul 2021 03:43:21 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>NGỰA 1 SỪNG NẰM (KỲ LÂN UNICORN NẰM)</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/ngua-1-sung-nam-ky-lan-unicorn-nam/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/ngua-1-sung-nam-ky-lan-unicorn-nam/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 03:23:36 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=318</guid>
+
+					<description><![CDATA[Ngựa 1 sừng nằm (Kỳ Lân Unicorn nằm)]]></description>
+										<content:encoded><![CDATA[<p>Chất nhung siêu mềm mịn và mắt tay. Thiết kế thuôn dài, có thể dùng để ôm, gối đầu, tựa lưng đều rất thích</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/ngua-1-sung-nam-ky-lan-unicorn-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

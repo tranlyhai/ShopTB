@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gau-bong-brown-om-vit &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gau-bong-brown-om-vit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 02 Jul 2021 04:00:45 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>GẤU BÔNG BROWN ÔM VỊT</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/gau-bong-brown-om-vit/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/gau-bong-brown-om-vit/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 04:00:45 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=397</guid>
+
+					<description><![CDATA[Khác với phiên bản gấu bông brown truyền thống, gấu bông brown ôm vịt được thiết kế cách tân hơn với chất nhung siêu mềm mịn, thêu hình một đôi môi xinh xắn trên đầu và đặc biệt là được ôm một chú vịt vàng dễ thương. Nếu gấu bông Brown truyền thống làm bao cô nàng điêu đứng thì phiên bản gấu bông Brown ôm vịt này còn hứa hẹn nhiều điều hấp dẫn hơn]]></description>
+										<content:encoded><![CDATA[<p>Khác với phiên bản gấu bông brown truyền thống, gấu bông brown ôm vịt được thiết kế cách tân hơn với chất nhung siêu mềm mịn, thêu hình một đôi môi xinh xắn trên đầu và đặc biệt là được ôm một chú vịt vàng dễ thương. Nếu gấu bông Brown truyền thống làm bao cô nàng điêu đứng thì phiên bản gấu bông Brown ôm vịt này còn hứa hẹn nhiều điều hấp dẫn hơn</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/gau-bong-brown-om-vit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

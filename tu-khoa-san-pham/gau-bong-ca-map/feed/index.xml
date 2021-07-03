@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gau-bong-ca-map &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gau-bong-ca-map/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 02 Jul 2021 03:38:13 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>CÁ MẬP NHUNG</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/ca-map-nhung/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/ca-map-nhung/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 03:38:13 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=347</guid>
+
+					<description><![CDATA[<a title="Cá mập nhung" href="http://www.gaubongvip.com/gau-bong/ca-map-nhung.html/251" target="_blank" rel="noopener" type="Cá mập nhung"><em><strong>Cá mập nhung</strong></em></a> xét về kiểu dáng thì cá mập nhung tương đối giống với mẫu cá mập thông thường nhưng cá mập nhung là dòng cá mập cao cấp có những yếu tố cao cấp hơn mẫu thông thường
+<ul>
+ 	<li>Lớp bên ngoài là nhung mịn cao cấp nên siêu mềm, sờ cực thích, ốp má cực phê</li>
+ 	<li>Dáng to tròn hơn nên ôm vừa tay hơn</li>
+ 	<li>Mắt thêu cầu kỳ &#38; đẹp mắt</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Bảo hành vĩnh viễn về đường may</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/ca-map-nhung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

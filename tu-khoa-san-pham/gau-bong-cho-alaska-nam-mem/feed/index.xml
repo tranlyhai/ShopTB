@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gau-bong-cho-alaska-nam-mem &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gau-bong-cho-alaska-nam-mem/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 02 Jul 2021 03:31:34 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>CHÓ ALASKA NẰM MỀM</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/cho-alaska-nam-mem/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/cho-alaska-nam-mem/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 03:31:33 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=333</guid>
+
+					<description><![CDATA[Hàng cao cấp với thiết kế thuôn dài, có thể dùng để ôm, gối đầu hay gác chân đều rất tuyệt vời. Bên ngoài là chất nhung co giãn 4 chiều siêu mềm mịn, bên trong là 100% bông trắng tinh khiết an toàn cho mọi lứa tuổi]]></description>
+										<content:encoded><![CDATA[<p>Hàng cao cấp với thiết kế thuôn dài, có thể dùng để ôm, gối đầu hay gác chân đều rất tuyệt vời. Bên ngoài là chất nhung co giãn 4 chiều siêu mềm mịn, bên trong là 100% bông trắng tinh khiết an toàn cho mọi lứa tuổi</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/cho-alaska-nam-mem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

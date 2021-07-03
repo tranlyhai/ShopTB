@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gau-teddy-head&amp;tales &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gau-teddy-headtales/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 30 Jun 2021 12:40:49 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>GẤU TEDDY HEAD &#038; TALES</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/gau-teddy-head-tales/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/gau-teddy-head-tales/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Wed, 30 Jun 2021 12:40:49 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=251</guid>
+
+					<description><![CDATA[<strong>Kiểu dáng: </strong>Ấn tượng đầu tiên của tôi về em gấu Teddy Head &#38; Tales là em ý có bộ lông xù rất chi là mềm mại, kích thước nhỏ gọn xinh xắn. Có lẽ đây cũng chính là nét đặc biệt của bạn gấu này khiến cho bao em bé yêu thích. Gấu Teddy Head &#38; Tales còn có đôi mắt to tròn ngây thơ và ưa nhìn rất phù hợp với các bé]]></description>
+										<content:encoded><![CDATA[<p>Gấu Teddy Head &amp; Tales có bộ lông xù rất chi là mềm mại, kích thước nhỏ gọn xinh xắn.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/gau-teddy-head-tales/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

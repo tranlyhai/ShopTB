@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>minon-mat-bong &#8211; Sở Thú Gấu Bông</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/minon-mat-bong/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranlyhai.github.io/ShopTB</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 02 Jul 2021 03:57:49 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>MINIONS 3D MẮT BÔNG</title>
+		<link>https://tranlyhai.github.io/ShopTB/product/minions-3d-mat-bong/</link>
+					<comments>https://tranlyhai.github.io/ShopTB/product/minions-3d-mat-bong/#respond</comments>
+		
+		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 03:57:49 +0000</pubDate>
+				<guid isPermaLink="false">https://tranlyhai.github.io/ShopTB/?post_type=product&#038;p=390</guid>
+
+					<description><![CDATA["Kẻ cắp mặt trăng" - Bộ phim hoạt hình nổi tiếng, ngay từ khi bắt đầu xuất hiện vào năm 2010 đã được cả thế giới nồng nhiệt chào đón. Bên cạnh phần nội dung đặc sắc, bộ phim tạo được dấu ấn sâu đậm cho người xem nhờ đám minion màu vàng ngộ nghĩnh, dễ thương. <a href="http://www.gaubongvip.com/gau-bong-minion/113" target="_blank" rel="noopener">Minion</a> được đánh giá là một trong những nhân vật hoạt hình nổi tiếng nhất]]></description>
+										<content:encoded><![CDATA[<p>Bảo hành vĩnh viễn về đường may</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranlyhai.github.io/ShopTB/product/minions-3d-mat-bong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
